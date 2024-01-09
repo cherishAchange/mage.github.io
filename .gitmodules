@@ -1,0 +1,3 @@
+[submodule "themes/energy"]
+	path = themes/energy
+	url = git@github.com:Tong-H/hexo-theme-energy.git
